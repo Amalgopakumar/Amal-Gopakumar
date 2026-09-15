@@ -18,7 +18,7 @@
 <br/>
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?Amal G=&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,14 +28,14 @@
 
 ```python
 me = {
-    "name"       : "YOUR NAME",
-    "role"       : "YOUR ROLE",
-    "location"   : "YOUR LOCATION 🇮🇳",
-    "education"  : "YOUR EDUCATION",
-    "experience" : "YOUR EXPERIENCE / INTERNSHIP",
+    "name"       : "Amal Gopakumar",
+    "role"       : "Data Analyst",
+    "location"   : "Kerala🇮🇳",
+    "education"  : "B.Tech Artificial Intelligence and Data Science",
+    "experience" : "8 mnth Internship",
     "skills"     : ["Skill 1", "Skill 2", "Skill 3", "Skill 4"],
-    "looking_for": "YOUR TARGET ROLE 🔍",
-    "contact"    : "YOUR EMAIL"
+    "looking_for": "Data Analyst, TSE, SQL Developer, BI Developer🔍",
+    "contact"    : "amalgopakumar5@gmail.com"
 }
 ```
 
