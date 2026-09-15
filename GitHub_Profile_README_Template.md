@@ -87,7 +87,7 @@ Power BI         ██████████████████░░   
 Excel            ██████████████████░░   90%
 Machine Learning ████████████░░░░░░░░   60%
 
----
+```
 
 <div align="center">
 
