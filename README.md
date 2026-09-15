@@ -1,2 +1,0 @@
-# Amal-Gopakumar
-About Me
