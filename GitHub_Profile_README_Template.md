@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=700&lines=Anakysis, BI, SQL, Python, DataBricks;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=700&lines=Analysis%2C+BI%2C+SQL%2C+Python%2C+Databricks;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
