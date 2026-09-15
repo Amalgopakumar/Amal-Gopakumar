@@ -77,87 +77,23 @@ me = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project 1 | 📊 Project 2 | 🤖 Project 3 |
-|:---:|:---:|:---:|
-| Short description | Short description | Short description |
-| **Key result / metric** | **Key result / metric** | **Key result / metric** |
-| `Tech 1` `Tech 2` | `Tech 1` `Tech 2` | `Tech 1` `Tech 2` |
-
-</div>
-
-### 📌 [Project 1 Name](YOUR_PROJECT_LINK)
-> Brief description of your project, what it does, and the main result or impact.
-
-### 📌 [Project 2 Name](YOUR_PROJECT_LINK)
-> Brief description of your project, what it does, and the main result or impact.
-
-### 📌 [Project 3 Name](YOUR_PROJECT_LINK)
-> Brief description of your project, what it does, and the main result or impact.
-
----
-
-## 💼 Experience Highlight
-
-```text
-🏢  COMPANY NAME  |  YOUR ROLE  |  START – END
-────────────────────────────────────────────────────────────────────
-✅  Achievement / responsibility 1
-✅  Achievement / responsibility 2
-✅  Achievement / responsibility 3
-✅  Achievement / responsibility 4
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=0ea5e9&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=0ea5e9&currStreakLabel=6366f1" width="500"/>
-
-</div>
-
----
-
-## 🏅 Certifications
-
-- 🎓 **Certification 1** – Issuer
-- 🐍 **Certification 2** – Issuer
-- 🗄️ **Certification 3** – Issuer
-
----
-
 ## 📈 Skill Progress
 
 ```text
-Skill 1          ████████████████████░   90%
-Skill 2          ██████████████████░░░   85%
-Skill 3          ████████████████░░░░░   75%
-Skill 4          ████████████████░░░░░   75%
-Skill 5          ████████████████████░   90%
-Skill 6          ███████████████░░░░░░   70%
-```
-
----
+Python          █████████████████░░░   85%
+SQL             ██████████████████░░   90%
+Databricks      ██████████████░░░░░░   70%
+Power BI        ██████████████████░░   90%
+Excel           ██████████████████░░   90%
+Machine Learning████████████░░░░░░░░   60%
 
 <div align="center">
 
 ### 💬 Let's Connect & Collaborate!
 
-*"YOUR PERSONAL TAGLINE"*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-gopakumar/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalgopakumar5@gmail.com)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" width="100%"/>
