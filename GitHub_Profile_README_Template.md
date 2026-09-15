@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=AMAL%20GOPAKUMAR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20DATA%20ANALYST&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=AMAL%20GOPAKUMAR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20DATA%20ANALYST&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
