@@ -73,27 +73,6 @@ shamnaz = {
 
 ---
 
-## 🚀 Projects
-
-> Add your projects here.
-
-### 📌 Project 1 — YOUR PROJECT NAME
-> Brief description of your project, what it does and the technologies used.
-
-**Tech:** `Python` `SQL` `Power BI`
-
-### 📌 Project 2 — YOUR PROJECT NAME
-> Brief description of your project and its key features.
-
-**Tech:** `Python` `Machine Learning` `Tableau`
-
-### 📌 Project 3 — YOUR PROJECT NAME
-> Brief description of your project and what you learned.
-
-**Tech:** `Excel` `SQL` `Power BI`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -107,14 +86,6 @@ shamnaz = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamnazVH&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=0ea5e9&currStreakLabel=6366f1" width="500"/>
 
 </div>
-
----
-
-## 🏅 Certifications
-
-- 🎓 **Certification 1** – Issuer
-- 🐍 **Certification 2** – Issuer
-- 🗄️ **Certification 3** – Issuer
 
 ---
 
